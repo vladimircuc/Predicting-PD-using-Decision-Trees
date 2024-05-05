@@ -3,7 +3,7 @@
   <h1 align="center">Parkinson's disease prediction using a Decision Tree ML module</h1>
 
   <p align="center">
-This project uses the Decision Tree Mchine LEarning model to predict The Parkinson's disease using a provided dataset. A comprehensive analysis of the code and prediction results is available in the PDF attached to this repository.  </p>
+This project utilizes the Decision Tree machine learning model to predict Parkinson's disease using a given dataset. A detailed analysis of the code and prediction results is available in the PDF attached to this repository.  </p>
 </p>
 
 ## Table of Contents
